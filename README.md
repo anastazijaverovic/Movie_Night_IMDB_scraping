@@ -1,2 +1,2 @@
 # Movie_Night_Random_Generator
-Just for fun - getting the random IMDB list Film Noir to watch this evening since we can’t decide
+Just for fun - scraping the IMDB list for top 20 Film Noir. Getting only one random movie to watch this evening since we can’t decide.
